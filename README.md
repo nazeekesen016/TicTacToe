@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-This is a simple project intended to be a place where I can help my brother learn to code.
+This is a simple project for people to play a simple TicTacToe game. As we just started learning C# Visual Studio.net. It used simple skill
 
 ## Description
 
